@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/projeto-crud/static/css/main.8fb7ff37.css",
-    "main.js": "/projeto-crud/static/js/main.2956d05c.js",
+    "main.js": "/projeto-crud/static/js/main.b3bbaca1.js",
     "static/js/453.20359781.chunk.js": "/projeto-crud/static/js/453.20359781.chunk.js",
     "static/media/logo.png": "/projeto-crud/static/media/logo.12da183b1fdcbbcd9bb3.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/projeto-crud/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -11,11 +11,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/projeto-crud/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/projeto-crud/index.html",
     "main.8fb7ff37.css.map": "/projeto-crud/static/css/main.8fb7ff37.css.map",
-    "main.2956d05c.js.map": "/projeto-crud/static/js/main.2956d05c.js.map",
+    "main.b3bbaca1.js.map": "/projeto-crud/static/js/main.b3bbaca1.js.map",
     "453.20359781.chunk.js.map": "/projeto-crud/static/js/453.20359781.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fb7ff37.css",
-    "static/js/main.2956d05c.js"
+    "static/js/main.b3bbaca1.js"
   ]
 }
