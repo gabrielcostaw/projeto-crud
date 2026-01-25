@@ -11,8 +11,8 @@ Este projeto é uma aplicação de gerenciamento de usuários completa, desenvol
 
 Para facilitar a visualização sem depender do carregamento da API, veja a interface do projeto abaixo:
 
-![Screenshot home do Projeto](./assets/home.jpg) 
-![Screenshot users do Projeto](./assets/users.jpg) 
+![Screenshot home do Projeto](/home.jpg) 
+![Screenshot users do Projeto](/users.jpg) 
 
 > **Nota:** O backend está hospedado no Render (plano gratuito). Por isso, ao abrir o link do projeto, pode haver um atraso de 30 a 50 segundos para o carregamento inicial dos dados enquanto o servidor "acorda".
 
