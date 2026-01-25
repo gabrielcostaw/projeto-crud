@@ -2,6 +2,7 @@
 
 > **Status do Projeto:** Concluído ✅  
 > **Link para demonstração:** [Acesse o Projeto Aqui](https://gabrielcostaw.github.io/projeto-crud/)
+>  **Nota:** O backend está hospedado no Render (plano gratuito). Por isso, ao abrir o link do projeto, pode haver um atraso de 30 a 50 segundos para o carregamento inicial dos dados enquanto o servidor "acorda".
 
 Este projeto é uma aplicação de gerenciamento de usuários completa, desenvolvida para consolidar meus conhecimentos em **React.js** e integração com serviços de API na nuvem. A aplicação permite realizar todas as operações fundamentais de um banco de dados: Criar, Ler, Atualizar e Excluir registros. 
 
@@ -14,7 +15,7 @@ Para facilitar a visualização sem depender do carregamento da API, veja a inte
 ![Screenshot home do Projeto](/home.jpg) 
 ![Screenshot users do Projeto](/users.jpg) 
 
-> **Nota:** O backend está hospedado no Render (plano gratuito). Por isso, ao abrir o link do projeto, pode haver um atraso de 30 a 50 segundos para o carregamento inicial dos dados enquanto o servidor "acorda".
+>
 
 ---
 
